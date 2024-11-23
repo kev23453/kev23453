@@ -2,7 +2,7 @@
 
 Hello, I'm Kevin Garcia a software developer and fullstack with good skills in fronted and backend, also I passionate with new tecnologies and knowledge on goods practices in the software industry.
 
-<img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.webp' alt='' width="100%" height="150px" style='object-fit: cover;'>
+<img src='https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2021/08/learn-coding-online-for-free.webp' alt='' width="100%" height="150px" style='object-fit: contain;'>
 
 ## Other skills: 
 
