@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi I'm kevin👋
+<hr>
+
+### Hello, i'm Kevin Garcia a software developer and fullstack with good skills in fronted and backend, also i passionate with new tecnologies
 
 <!--
 **kev23453/kev23453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
