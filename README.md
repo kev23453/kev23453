@@ -1,6 +1,6 @@
 ## Hi I'm kevin👋
 
-### Hello, I'm Kevin Garcia a software developer and fullstack with good skills in fronted and backend, also I passionate with new tecnologies and knowledge on goods practices in the software industry.
+Hello, I'm Kevin Garcia a software developer and fullstack with good skills in fronted and backend, also I passionate with new tecnologies and knowledge on goods practices in the software industry.
 
 <!--
 **kev23453/kev23453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
