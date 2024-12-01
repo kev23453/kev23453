@@ -2,8 +2,6 @@
 
 Hello, I'm Kevin Garcia a software developer and fullstack with good skills in fronted and backend, also I passionate with new tecnologies and knowledge on goods practices in the software industry.
 
-<img src='https://images.pexels.com/photos/614117/pexels-photo-614117.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='' width='100%' height='300px' style='object-fit: cover'>
-
 ## Other skills: 
 
 - Good verbal comunications
