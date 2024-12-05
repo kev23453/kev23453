@@ -6,7 +6,7 @@ _Skills & Expertise_:
 
 	•	Backend Development: Advanced knowledge of PHP and experience with popular PHP frameworks.
 	•	Frontend Development: Proficient in HTML, CSS (native), and JavaScript.
-	•	Databases: Strong expertise in SQL Server and MySQL, with basic experience in Progress.
+	•	Databases: Strong expertise in SQL Server and MySQL, with basic experience in NoSql.
 	•	Language Proficiency: B1 level of English, with conversational ability and commitment to improvement.
 
 Open to:
