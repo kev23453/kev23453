@@ -19,7 +19,7 @@ Open to:
     
 <summary><h2>Tools</h2></summary>
   
-[![My Skills](https://skillicons.dev/icons?i=php,css,js,mysql,sqlsever,sql,git,github,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,css,js,mysql,git,github,html)](https://skillicons.dev)
 
 </details>  
 
