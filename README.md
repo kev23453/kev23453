@@ -2,7 +2,7 @@
 
 @KevinGarcia, a dedicated Fullstack Developer passionate about crafting effective and scalable software solutions. 🌐 Actively enhancing my skills in backend, frontend, and database management. I enjoy diving into challenging projects and continuously learning about the latest technologies.
 
-Skills & Expertise:
+_Skills & Expertise_:
 
 	•	Backend Development: Advanced knowledge of PHP and experience with popular PHP frameworks.
 	•	Frontend Development: Proficient in HTML, CSS (native), and JavaScript.
@@ -19,7 +19,7 @@ Open to:
     
 <summary><h2>Tools</h2></summary>
   
-[![My Skills](https://skillicons.dev/icons?i=php,css,js,mysql,mssql,sql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,css,js,mysql,sqlsever,sql,git,github,html)](https://skillicons.dev)
 
 </details>  
 
