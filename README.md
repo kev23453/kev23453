@@ -11,17 +11,18 @@ Skills & Expertise:
 
 Open to:
 
-	•	Collaboration: Ready to contribute to impactful projects.
-	•	Learning Opportunities: Eager to grow through real-world experience.
-	•	Tech Discussions: Always open to sharing ideas and exploring solutions in software development.
+ - Collaboration: Ready to contribute to impactful projects.
+ - Learning Opportunities: Eager to grow through real-world experience.
+ - Tech Discussions: Always open to sharing ideas and exploring solutions in software development.
 
 <details>  
- <summary><h2>Tools</h2></summary>
+    
+<summary><h2>Tools</h2></summary>
   
 [![My Skills](https://skillicons.dev/icons?i=php,css,js,mysql,mssql,sql,git,github)](https://skillicons.dev)
 
 </details>  
 
 
-	> [!IMPORTANT]  
+> [!IMPORTANT]  
 > Connect with me for more information through my [LinkedIn](https://www.linkedin.com/in/kevin-francisco-garc%C3%ADa-g%C3%B3mez-22748431b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)!
